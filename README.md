@@ -1,5 +1,5 @@
 <H4>NAME: SARISH VARSHAN V</H4>
-<H4>REGISTER NO: 212223230196+</H4>
+<H4>REGISTER NO: 212223230196</H4>
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.</br>
